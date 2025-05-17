@@ -79,7 +79,6 @@ A simple interactive interface is provided to test the trained model:
 - Output: The predicted **emotion** label
 
 You can run the deployment script locally or integrate it with a UI platform like **Streamlit**.
-or you can access the app from [here]()
 
 
 ## Conclusion
